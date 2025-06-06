@@ -1,6 +1,6 @@
-### hey
+# hey
 
-## am clueless
+### am clueless
 <!--
 **resolverkatla/resolverkatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
